@@ -66,6 +66,27 @@ npm run build
 ```bash
 npm run preview
 ```
+
+测试
+
+运行测试：
+
+```bash
+npm test
+```
+
+运行测试覆盖率：
+
+```bash
+npm run test:coverage
+```
+
+运行测试UI：
+
+```bash
+npm run test:ui
+```
+
 效果展示
 
 以下是使用 DrawStampUtils.js 生成的电子印章示例：
